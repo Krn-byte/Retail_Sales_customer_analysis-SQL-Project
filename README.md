@@ -139,8 +139,7 @@ The analysis uses `LEFT JOIN` to include customers who do not have matching tran
 - Results depend on correct CSV imports, compatible column names, and valid date values.
 
 ---
-
 **Author:** Karan Upadhyay  
-**Project Type:** Data Analytics | Retail Sales & Customer Data Analysis
+**Project Type:** Data Analytics | Retail Sales & Customer Data Analysis   
 **Primary Tool:** MySQL
 
