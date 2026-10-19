@@ -138,5 +138,9 @@ The analysis uses `LEFT JOIN` to include customers who do not have matching tran
 - Sales trends describe observed transaction activity and do not establish the causes of changes in sales.
 - Results depend on correct CSV imports, compatible column names, and valid date values.
 
-## Author
-**Karan Upadhyay**
+---
+
+**Author:** Karan Upadhyay  
+**Project Type:** Data Analytics | Retail Sales & Customer Data Analysis
+**Primary Tool:** MySQL
+
