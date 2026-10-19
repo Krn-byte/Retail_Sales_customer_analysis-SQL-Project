@@ -122,7 +122,7 @@ The analysis uses `LEFT JOIN` to include customers who do not have matching tran
    - `CUSTOMER_PROFILES`
    - `SALES_TRANSACTION`
 4. Verify that the imported column names and data types are compatible with the SQL script.
-5. Open `Retail Analysis Case Study.sql`.
+5. Open `Retail_Analysis_Case_Study.sql`.
 6. Execute the SQL statements in sequence.
 7. Review the results of the product sales, sales trend, customer loyalty, and customer segmentation queries.
 
